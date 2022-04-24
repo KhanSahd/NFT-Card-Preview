@@ -27,7 +27,7 @@ Users should be able to:
 ![](./images/Screen%20Shot%202022-04-24%20at%204.53.05%20AM.png)
 ### Link
 
-- Live Site URL: [Add live site URL here](https://khansahd.github.io/NFT-Card-Preview/)
+- Live Site URL: [https://khansahd.github.io/NFT-Card-Preview/](https://khansahd.github.io/NFT-Card-Preview/)
 
 ### Built with
 
